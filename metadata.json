@@ -1,0 +1,6 @@
+{
+  "name": "AI Hub",
+  "description": "Plataforma completa de inteligência artificial com resolução estratégica de problemas, estúdio de criação de vídeo, imagem, texto, áudio e código.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
